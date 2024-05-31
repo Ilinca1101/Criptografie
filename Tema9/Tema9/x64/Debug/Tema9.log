@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(55,37): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(55,25): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(60,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(60,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(60,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(61,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(61,53): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(61,33): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(62,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(62,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(63,30): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\Source.cpp(63,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Tema9.vcxproj -> C:\Users\ilinc\OneDrive\Desktop\Cripto\Tema9\x64\Debug\Tema9.exe
